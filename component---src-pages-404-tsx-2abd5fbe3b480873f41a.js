@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkproduct_website_template=self.webpackChunkproduct_website_template||[]).push([[296],{8472:function(e,t,s){s.r(t);var u=s(7624);t.default=()=>(0,u.jsx)("span",{children:"404: Page not found"})}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-2abd5fbe3b480873f41a.js.map

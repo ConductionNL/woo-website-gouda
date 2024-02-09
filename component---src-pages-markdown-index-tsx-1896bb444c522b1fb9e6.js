@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkproduct_website_template=self.webpackChunkproduct_website_template||[]).push([[936],{6016:function(e,t,s){s.r(t);var u=s(2296),a=s(7624);t.default=()=>((0,u.IB)("/"),(0,a.jsx)(a.Fragment,{}))}}]);
+//# sourceMappingURL=component---src-pages-markdown-index-tsx-1896bb444c522b1fb9e6.js.map
