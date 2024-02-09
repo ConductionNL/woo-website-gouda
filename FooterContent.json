@@ -4,20 +4,45 @@
     "items": [
       {
         "ariaLabel": "Phone number",
-        "value": "+31 (0)85 3036840",
-        "link": "tel:+31 (0)85 3036840",
+        "value": "14 0182",
+        "link": "tel:14 0182",
         "icon": { "prefix": "fas", "icon": "phone", "placement": "left" }
       },
       {
         "ariaLabel": "Email address",
-        "value": "info@conduction.nl",
-        "link": "mailto:info@conduction.nl",
+        "value": "gemeente@gouda.nl",
+        "link": "mailto:gemeente@gouda.nl",
         "icon": { "prefix": "fas", "icon": "envelope", "placement": "left" }
+      }
+    ]
+  }
+  ,
+  {
+    "title": "Algemeen",
+    "items": [
+      {
+        "ariaLabel": "Website",
+        "value": "www.gouda.nl",
+        "link": "https://www.gouda.nl/",
+        "icon": { "prefix": "fas", "icon": "globe", "placement": "left" }
       },
       {
-        "label": "Address",
-        "ariaLabel": "Address",
-        "value": "Lauriergracht 14h"
+        "ariaLabel": "Privacy",
+        "value": "Privacy",
+        "link": "https://www.gouda.nl/privacyverklaring/",
+        "icon": { "prefix": "fas", "icon": "circle-exclamation", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Toegankelijkheid",
+        "value": "Toegankelijkheid",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/docs/Toegankelijkheid.md",
+        "icon": { "prefix": "fas", "icon": "user-shield", "placement": "left" }
+      },
+      {
+        "ariaLabel": "Over deze website",
+        "value": "Over deze website",
+        "markdownLink": "https://github.com/ConductionNL/woo-website-template/blob/main/docs/Over%20deze%20website.md",
+        "icon": { "prefix": "fas", "icon": "circle-info", "placement": "left" }
       }
     ]
   }
