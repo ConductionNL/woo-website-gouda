@@ -10,7 +10,7 @@ env: # Change these to your preferences any image url can also be a base encoded
   API_BASE_URL: "https://api.gateway.commonground.nu/api"
   NL_DESIGN_THEME_CLASSNAME: "gouda-theme"
   DEV_ENVIRONMENT: "true"
-  SHOW_CATEGORY: "false"
+  SHOW_CATEGORY: "true"
   SHOW_ORGANIZATION: "false"
   FAVICON_URL: "https://www.gouda.nl/wp-content/uploads/2023/01/cropped-favicon-32x32.png"
   ORGANISATION_NAME: "Gemeente Gouda"
